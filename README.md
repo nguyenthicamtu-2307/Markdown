@@ -32,6 +32,14 @@
     - Sử dụng - hoặc * hoặc + nếu muốn định dạng câu đó ở dạng list.
     - List 1
     - List 2
+ 7. **Table**
+  - Chèn table với cú pháp: | nội dung cột thứ nhất | | nội dung cột thứ 2 | và những cột tiếp theo <br/>
+ ```
+ | Letter | Next Letter | Previous Letter | 
+  | :----- | :---------- | :-------------- | 
+  | B      | C           | A               | 
+  ```
+
 
   
  
